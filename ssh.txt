@@ -1,0 +1,25 @@
+instalar con comando--> apt-get install openssh-server
+Asegurate que esta corriendo--> systemctl enable ssh
+conectarte al servidor--> ssh root@ip del servidor
+selecciona la op Yes
+ls--> muestra todo el contenido de directorios
+mkdir--> Crea un directorio
+touch--> crea un arhivo si no exite y si existe cambia la fecha de modificacion 
+mv--> mueve el archivo a una nueva ubicacion
+cp-->Copia el archivo a una nueva ubicacion
+cd-->Entrar a un directorio
+cd..--> vulve a un directorio mas arriba 
+rm-->Borra un archivo
+nano o vim-->Editor de archivo de texto
+wget-->Descarga un archivo de internet 
+generar certificado--> ssh-keygen
+cat-->Muestra el contenido de un archivo 
+copiar el certificado publico--> cat .ssh/id_rsa.pub
+Modificar el archivo-->vim .ssh/authorized_keys
+logout-->Salir
+$ ssh -p [PUERTO] [USUARIO]@[IP-DEL-SERVIDOR] -->
+[PUERTO] – por defecto el puerto utilizado es el 22, pero si eres un usuario de HostGator, y estás intentando conectarte a un Alojamiento Compartido (Planes P, M, Turbo y Revendedor), en este caso el puerto es el 2222.
+[USUARIO] – usuario de la cuenta de cPanel que se va a acceder. Si deseas iniciar la sesión como root, introduce root.
+[IP-DEL-SERVIDOR] – IP del servidor, sería algo así como 123.45.67.89, si conoces un dominio que apunte al servidor de alojamiento, también puedes usar el dominio como parámetro aquí. Ej.: ssh -p 22 root@dominio-principal.com
+
+

@@ -1,0 +1,75 @@
+PROYECTO 
+--Sistema De Mantenimiento Plus--
+-----------------------------------------
+CAPITULO 1
+-----------------------------------------
+*Introducción-->Hablar un poco de las Ti,los avances tecologicos,
+el aporte que nos han prensentado,etc. y hablar de mi proyecto.
+*Analisis de la situacion-->
+	--ANTECEDENTES-->Hablar de la empresa como cuando fue 	fundada, a que se dedica, etc.
+	--AREA DE OPORTUNIDAD-->Porque decidi hacer este proyecto,Beneficios que adquiere la empresa
+	con el desarrollo de dicho proyeto
+	--EVALUACION DIAGNOSTICA-->Puedes presentar un analizas de foda este para determinar las necesidades de la empresa
+*Justifiacion del proyecto-->Hablar de porque elejimos ese proyecto.
+*Objetivos-->Explicar mis objetivos generales para el proyecto como tambien explicar los objetivos especificos.
+------------------------------------------
+CAPITULO 2
+------------------------------------------
+*Metodologia-->Explicar el tiempo de desarrollo de cada actividad para desarrollar el proyecto.
+*Marco teorico-->
+Que usamos para desarrollar el proyecto
+--Sitio de RCG media 
+--Strapi
+--Visual Studio Code
+--Postman
+--Facebook Developer
+--React Js
+--Lenguaje de programacion Jsx 
+--Terminal del sistema de nuestro computador.
+--Node js
+--GitHub
+***EXPLICAR CADA PUNTO***
+*Desarrollo-->
+	--Inicio:Poner info del proyecto como surgio
+	--Definicion del proyecto:Que conlleva nuestro proyecto 
+	--Analisis:Analizar los requisitos de la empresa para dar mejoras en el sistema
+	--Analisis de la situacion:Explicar las dificultades que se tenian antes de llevar el proyecto a cabo.
+	--Analisis de Requerimientos:Seguir hablando de las dificultades hasta llegar al punto de que le das solucion y 
+	explicas los objetivos.
+	--Requisitos del sistema:--PENDIENTE--
+	--Planeacion:Poner en marcha el proyecto tomando en cuenta los requisitos dados por la empresa, tomando en cuenta las necesi
+	dades de la pagina, etc.
+	--Rol (STAKEHOLDERS):Aqui vas a identificar los actores y explicar el rol de cada uno de ellos en este caso seria:
+		--Desarrolladores Web(Programadores)(Jorge Neira, Cigladi Chacon)Desarrolladores de nuevo modulos para el sitio
+		--Administrador de la web(Jorge Neira, Cigladi Chacon, Ing. Jesus Reyes)Encargados de agregar nuevos modulos 
+		al sitio web
+		--Administrador del proyecto(Jorge Neira, Cigladi Chacon, Ing. Jesus Reyes)
+	--Casos de uso:Aqui vas hablar de las interacciones de los roles con el sistema.
+	--Ejecucion:Aqui hablaras de la puesta en marcha del proyecto
+	--Diseño:Habla sobre el diseño de tu proyecto(Checa bien pagina 27)Hablaras de como esta conformada la pagina
+		--Menu principal--que hay 
+		--Dividir las secciones explicar todo lo que hay en la pagina y sobre todo recalcar lo que tu hiciste
+		esto para hacer mas hojas JAJAJAJA
+	--Codificacion:
+	--Seguridad:
+	--Control:
+	--Cambios:
+	--Prueba de unidad:
+PENDIENTES PORQUE SABE SI LOS PIDA HAY QUE VER EL FORMATO JAJA
+*Analisis de resultados-->Explicar si logramos el objetivo, explicar lo que fuimos haciendo como llevarlo a revision etc,CHECAR PAGINA34
+--------------------------------------------------------------------
+CAPITULO 3
+--------------------------------------------------------------------
+*Concluisones-->Habla en que consiste el proyecto que lograste etc.
+*Glosario-->Consulta de palabras clave.
+*Bibliografias-->EN FORMATO APA
+*Anexos-->
+	--Project charter del proyecto
+	--Matriz FODA
+	--Diagrama WBS
+	--Diagrama de casos de uso
+	--Pagina Principal y codigo
+	--Agegar modulos elaborados
+	--Cronograma de actividades(Grafica de GANTT).
+--------------------------------------------------------
+
